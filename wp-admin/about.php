@@ -1,4 +1,5 @@
 <?php
+echo "hello";
 /**
  * About This Version administration panel.
  *
